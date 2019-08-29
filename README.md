@@ -1,2 +1,2 @@
 # voicetag
-Vocally create tags, using Google Maps API
+I have added the MQTT installer to my repo, but it might be removed at some opint. I'm really just kind of winging it.
